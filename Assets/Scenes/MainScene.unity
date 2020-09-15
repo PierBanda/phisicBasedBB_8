@@ -953,6 +953,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 50
   rb: {fileID: 3546474841501395213}
+  headCenterOfMass: {fileID: 1056215943}
   brakeForce: 20
 --- !u!114 &6234415420424300499
 MonoBehaviour:
